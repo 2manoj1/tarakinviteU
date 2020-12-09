@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4741d6505bf8ed4e86345cbc766f3b6e",
+    "revision": "404a1aa7502a9d4d960b4d99806b7766",
     "url": "/tarakinviteU/index.html"
   },
   {
-    "revision": "a368e521661e8d879dc8",
-    "url": "/tarakinviteU/static/css/main.2070b11c.chunk.css"
+    "revision": "f53bd24983d4f81ea4ac",
+    "url": "/tarakinviteU/static/css/main.d5a98501.chunk.css"
   },
   {
     "revision": "a32b37c549ddf60dda83",
     "url": "/tarakinviteU/static/js/2.bf589217.chunk.js"
   },
   {
-    "revision": "a368e521661e8d879dc8",
-    "url": "/tarakinviteU/static/js/main.b0a5d1cf.chunk.js"
+    "revision": "f53bd24983d4f81ea4ac",
+    "url": "/tarakinviteU/static/js/main.ae1cd2af.chunk.js"
   },
   {
     "revision": "004bbeb6e54fdd809e39",
@@ -40,12 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarakinviteU/static/media/counter-1-1600x600.0848d9d0.jpg"
   },
   {
+    "revision": "143ed60019da7207421e4783cebd2784",
+    "url": "/tarakinviteU/static/media/heart3d.143ed600.png"
+  },
+  {
     "revision": "fffbc4d9299df17cde9374c8e090a4e8",
     "url": "/tarakinviteU/static/media/rita.fffbc4d9.jpeg"
   },
   {
-    "revision": "3e9ca172f5a660149f0c43b0d1ba948a",
-    "url": "/tarakinviteU/static/media/tarak.3e9ca172.png"
+    "revision": "e7de8d72bd1f849d3873cc6a5b0a4adc",
+    "url": "/tarakinviteU/static/media/tarak.e7de8d72.png"
   },
   {
     "revision": "9db42964c0057b4ba3e1b94d10da877e",
