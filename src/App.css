@@ -247,13 +247,14 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 	z-index: -1; background: rgba(0,0,0,.3); }
 	
 .remaining-time .time-sec{ position: relative; display: inline-block; margin: 0 20px; margin-bottom: 30px; 
-  height: 120px; width: 120px; padding-top: 25px; border-radius: 100px; border: 1px solid #F14E95;
+  height: 110px; width: 120px; padding-top: 22px;
   color: #fff;
-  background: rgba(241, 78, 149, 0.8);
+  background-image: url(./images/heart3d.png);
+  background-size: cover;
   
   animation: pulse 1s ease infinite; }
 
-.remaining-time .time-sec .title{ font-size: 3em; line-height: 1; display: block; }
+.remaining-time .time-sec .title{ font-size: 2.5em; line-height: 0.9; display: block; }
 
 @keyframes pulse {
   0% { transform: scale(1); }
