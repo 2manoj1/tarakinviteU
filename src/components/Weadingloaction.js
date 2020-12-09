@@ -37,7 +37,7 @@ const Weadingloaction = () => {
 						<div className="w-detail left">
 							<i className="icon icon-cake"></i>
 							<h4 className="title">RECEPTION PARTY</h4>
-							<p>Tuesday, March 2nd, 2021</p>
+							<p>Wednesday, March 3rd, 2021</p>
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Neckrakunda, Bankura, West Bengal</p>
                             <p>
