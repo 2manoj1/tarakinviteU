@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c43830406b8c928818b09727a0f6546",
+    "revision": "d2ab93d684d53d45994a9df6332ba6a7",
     "url": "/tarakinviteU/index.html"
   },
   {
-    "revision": "266b3782b779ed64e7a6",
+    "revision": "4ef1d7aa0742e40ecde5",
     "url": "/tarakinviteU/static/css/main.9b97dccc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarakinviteU/static/js/2.bf589217.chunk.js"
   },
   {
-    "revision": "266b3782b779ed64e7a6",
-    "url": "/tarakinviteU/static/js/main.5c0017fa.chunk.js"
+    "revision": "4ef1d7aa0742e40ecde5",
+    "url": "/tarakinviteU/static/js/main.f2462961.chunk.js"
   },
   {
     "revision": "004bbeb6e54fdd809e39",
