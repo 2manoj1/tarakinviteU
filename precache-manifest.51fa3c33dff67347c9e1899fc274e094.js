@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b23beb4678ffdc59a1dea5e136e5470",
+    "revision": "4741d6505bf8ed4e86345cbc766f3b6e",
     "url": "/tarakinviteU/index.html"
   },
   {
-    "revision": "30e0949175aa3ec5b2d7",
-    "url": "/tarakinviteU/static/css/main.9b97dccc.chunk.css"
+    "revision": "a368e521661e8d879dc8",
+    "url": "/tarakinviteU/static/css/main.2070b11c.chunk.css"
   },
   {
     "revision": "a32b37c549ddf60dda83",
     "url": "/tarakinviteU/static/js/2.bf589217.chunk.js"
   },
   {
-    "revision": "30e0949175aa3ec5b2d7",
-    "url": "/tarakinviteU/static/js/main.91c56d27.chunk.js"
+    "revision": "a368e521661e8d879dc8",
+    "url": "/tarakinviteU/static/js/main.b0a5d1cf.chunk.js"
   },
   {
     "revision": "004bbeb6e54fdd809e39",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarakinviteU/static/media/rita.fffbc4d9.jpeg"
   },
   {
-    "revision": "bf69246006360e41647ecae601e247fa",
-    "url": "/tarakinviteU/static/media/slider-1-1600x900.bf692460.jpg"
+    "revision": "3e9ca172f5a660149f0c43b0d1ba948a",
+    "url": "/tarakinviteU/static/media/tarak.3e9ca172.png"
   },
   {
-    "revision": "66d15a233f2ed92fec3ace4400e9391f",
-    "url": "/tarakinviteU/static/media/tarak.66d15a23.jpeg"
+    "revision": "9db42964c0057b4ba3e1b94d10da877e",
+    "url": "/tarakinviteU/static/media/tarak1.9db42964.jpeg"
   },
   {
     "revision": "32d27b8e2d1309228e888d54285197d3",
