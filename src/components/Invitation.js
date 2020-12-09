@@ -1,5 +1,5 @@
 import React from 'react';
-import groom from '../images/tarak.jpeg';
+import groom from '../images/tarak.png';
 import bride from '../images/rita.jpeg';
 import brideback from '../images/brideback.jpg';
 const Invitation = () => {
