@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TarakRitaInviteU/precache-manifest.6a92e9b2b64a911e3b2cee891f61d44a.js"
+  "/TarakRitaInviteU/precache-manifest.e3d113cae295cf1eb1a116492dc8c911.js"
 );
 
 self.addEventListener('message', (event) => {
